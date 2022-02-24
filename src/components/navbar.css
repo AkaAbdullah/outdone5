@@ -1,0 +1,40 @@
+.margins{
+    margin-left: 160px;
+}
+
+.home{
+    margin-top: 11px;
+    margin-right: 45px;
+    text-decoration: none;
+    font-weight: 700;
+    color: #1D2951 !important;
+    border-bottom: 5px solid #fcd364 !important;
+
+}
+
+.gift{
+    margin-top: 11px;
+    margin-right: 45px;
+    font-weight: 700;
+    color: #1D2951 !important;
+
+
+}
+
+.faq{
+    margin-top: 11px;
+    margin-right: 45px;
+    font-weight: 700;
+    color: #1D2951 !important;
+
+
+}
+
+.about{
+    margin-top: 11px;
+    margin-right: 203px;
+    font-weight: 700;
+    color: #1D2951 !important;
+
+
+}

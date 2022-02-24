@@ -1,0 +1,86 @@
+.bg {
+  height: 91.5vh;
+  background-color: #c9e3fb;
+}
+
+.heading1 {
+  margin-left: 349px;
+  margin-top: 37px;
+  color: #39466c;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+}
+.crossdiv{
+  width: 50px;
+  height: auto;
+}
+
+.exit-icon {
+  margin-left: 1330px;
+  margin-top: 28px;
+}
+.inner-div2 {
+  margin: 2px;
+  margin-top: 50px;
+  width: 116px;
+  height: 15px;
+  background-color: #9fd0d4;
+  border-radius: 3px;
+}
+.inner-divnew {
+  margin: 2px;
+  margin-top: 50px;
+  width: 116px;
+  height: 15px;
+  background-color: #77beae;
+  border-radius: 3px;
+}
+.progressbar1 {
+  display: flex;
+  margin-top: -35px;
+  align-items: center;
+  justify-content: center;
+}
+.genderdiv {
+  margin-top: 20px;
+}
+.gender {
+  color: #1d2951;
+  font-size: 19px;
+  font-weight: 600;
+  margin-left: 354px;
+}
+
+.radio-toolbar {
+  margin: 10px;
+}
+.boxes {
+  display: flex;
+  margin-top: 20px;
+  margin-right: 70px;
+  justify-content: space-around;
+}
+.radio-toolbar input[type="radio"] {
+  opacity: 0;
+  position: fixed;
+  width: 0;
+}
+
+.radio-toolbar label {
+  display: inline-block;
+  width: 217px;
+  height: 85px;
+  background-color: #fff;
+  padding: 25px 74px;
+  font-weight: 100;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-size: 22px;
+  border: none;
+  border-radius: 15px;
+}
+
+.radio-toolbar input[type="radio"]:checked + label {
+  background-color: #ffd364;
+  border: #fff;
+}
